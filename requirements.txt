@@ -6,7 +6,7 @@ certifi==2018.4.16
 chardet==3.0.4
 idna==2.7
 json2html==1.2.1
-numpy==1.14.5
+numpy==1.22.0
 pandas==0.23.1
 parse==1.8.4
 parse-type==0.4.2
