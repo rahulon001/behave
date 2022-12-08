@@ -2,7 +2,7 @@ allure-behave==2.4.1
 allure-python-commons==2.4.1
 attrs==18.1.0
 behave==1.2.6
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.7
 json2html==1.2.1
